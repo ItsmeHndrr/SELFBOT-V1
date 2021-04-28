@@ -2269,44 +2269,6 @@ _Speed : ${tensi.toFixed(2)} Second_`
                         faketoko(`Err: ${e}`)
                     }
                     break
-                    case 'ayoloh':
-                    case 'uggc':
-                        if (!isGroup) return faketoko(mess.only.group)
-                        client.toggleDisappearingMessages(from)
-                        break
-                        case 'ugtroli':
-                            if (!mek.key.fromMe) return reply('hayoloh')
-                    teks = args.join(' ')
-                    client.sendMessage(mek.key.remoteJid, `${teks}`,MessageType.extendedText,{
-                      quoted: {
-                        key : {
-                          participant : '0@s.whatsapp.net'
-                        },
-                        message: {
-                          orderMessage: {
-                            itemCount : 1,
-                            status: 1,
-                            surface : 1,
-                            message: ' *Hmm* ',
-                            orderTitle: 'Ramadhan',
-                            sellerJid: '0@s.whatsapp.net'
-          
-                          }
-                        }
-                      }
-                    })
-          
-                    break
-                case 'val':
-                    if (!q) return faketoko(mess.wrongFormat)
-                    try {
-                        let evaled = await eval(q)
-                        if (typeof evaled !== 'string') evaled = require('util').inspect(evaled)
-                        return faketoko(evaled)
-                    } catch (err) {
-                        faketoko(`[ *ERROR* ] ${err}`)
-                    }
-                    break
                 case 'fk':
                     if (args[0] === 'on') {
                         if (config.afkkontak === true) return faketoko(`AFK khusus kontak sudah diaktifkan sebelumnya`)
