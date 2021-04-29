@@ -58,31 +58,7 @@
 > apt update && apt upgrade -y
 > pkg install git -y
 > pkg install bash -y
-> git clone https://github.com/IstmeHndrr/SELFBOT-V1.git
-> cd SELF-BOT
-> bash install.sh
-> npm start
-```
-
-### sosial media
-
-
-* [`WhatsApp Admin `](https://wa.me/6289652903288)
-
-* [`Res APIs `](https://api.herokuapp.com/)
-
-## APIKEY & Author Packname sticker
-Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ingin dijadiin self
-- [VHTEAR](https://api.vhtear.com)
-- [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
-
-### Installasi In TERMUX
-
-```bash
-> apt update && apt upgrade -y
-> pkg install git -y
-> pkg install bash -y
-> git clone https://github.com/MrG3P5/SELF-BOT.git
+> git clone https://github.com/ItsmeHndrr/SELFBOT-V1.git
 > cd SELF-BOT
 > bash install.sh
 > npm start
@@ -182,6 +158,18 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 |       ✅        |  dork             |
 |       ✅        |  nmap             |
 
+
+### sosial media
+
+
+* [`WhatsApp Admin `](https://wa.me/6289652903288)
+
+* [`Facwbook `](https://facebook.com/transmart0)
+
+## APIKEY & Author Packname sticker
+Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ingin dijadiin self
+- [VHTEAR](https://api.vhtear.com)
+- [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
 
 ## 🙏 Special Thanks To
 <ul>
