@@ -63,20 +63,27 @@
 > bash install.sh
 > npm start
 ```
+### NOT PREFIX
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker WM                        |
 |       ✅       | Sticker Trigger                   |
-|       ✅       | Sticker wasted                   |
+|       ✅       | Sticker wasted 
+|       ✅        |  Esticker                     |
 
 | Group |                     Feature                |
 | :------------: | :---------------------------------------------: |
-|       ✅        |  Hidetag               |
+|       ✅        |  Hidetag     |
+|       ✅        |  Kontag      |
+|       ✅        |  Totag  |
+|       ✅        |  Imgtag       |
+|       ✅        |  Stiktag  |
 |       ✅        |  Grup close atau open       |
 |       ✅        |  Gcname          |
 |       ✅        |  Gcdesk       |
 |       ✅        |  Add              |
+|       ✅        |  Edontesei       |
 |       ✅        |  Kick              |
 |       ✅        |  Ownergc              |
 |       ✅        |  Leave              |
@@ -130,15 +137,25 @@
 |       ✅        |  Setpp             |
 |       ✅        |  Clearall             |
 |       ✅        |  Readallchat             |
-|       ✅        |  Fakedeface             |
-|       ✅        |  Setthumb             |
+|       ✅        |  Fakedeface 
+|       ✅        |  Unarsip       |
+|       ✅        |  Arsip       |
+|       ✅        |  Unpin       |
+|       ✅        |  Pin             |
+|       ✅        |  Delthischat       |
+|       ✅        |  Setthumbimage     |
+|       ✅        |  Setthumbvideo |
+|       ✅        |  Fakevideo
+|       ✅        |  Fakeimage  |
 |       ✅        |  Antidelete group             |
 |       ✅        |  Antidelete kontak             |
 |       ✅        |  Return             |
 |       ✅        |  Cr1 (fake reply grup)             |
 |       ✅        |  Cr2 (fake reply private)             |
 |       ✅        |  Runtime             |
-|       ✅        |  Settarget             |
+|       ✅        |  Settarget 
+|       ✅        |  Targetsw  |
+|       ✅        |  swfitnah  |
 |       ✅        |  Term             |
 |       ✅        |  Ping             |
 |       ✅        |  Setreply             |
@@ -151,6 +168,9 @@
 |       ✅        |  Bass             |
 |       ✅        |  Tupai             |
 |       ✅        |  Toptt             |
+|       ✅        |  vibrato       |
+|       ✅        |  Areverse       |
+|       ✅        |  Apulsator       |
 
 | PENTEST |                     Feature                |
 | :------------: | :---------------------------------------------: |
