@@ -59,7 +59,7 @@
 > pkg install git -y
 > pkg install bash -y
 > git clone https://github.com/ItsmeHndrr/SELFBOT-V1.git
-> cd SELF-BOT
+> cd SELFBOT-V1
 > bash install.sh
 > npm start
 ```
