@@ -162,6 +162,6 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 
 ## 🙏 Special Thanks To
 
-> [adiwajshing](https://github.com/adiwajshing/Baileys)
-> [MrG3P5](https://github.com/MrG3P5)
-> [MhankBarBar](https://github.com/MhankBarBar)
+- [adiwajshing](https://github.com/adiwajshing/Baileys)
+- [MrG3P5](https://github.com/MrG3P5)
+- [MhankBarBar](https://github.com/MhankBarBar)
