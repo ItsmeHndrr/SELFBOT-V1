@@ -161,8 +161,7 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 - [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
 
 ## 🙏 Special Thanks To
-<ul>
-<li>https://github.com/adiwajshing/Baileys<br>
-<li>https://github.com/MrG3P5<br>
-<li>https://github.com/MhankBarBar<br>
-</li>
+
+> [adiwajshing](https://github.com/adiwajshing/Baileys)
+> [MrG3P5](https://github.com/MrG3P5)
+> [MhankBarBar](https://github.com/MhankBarBar)
