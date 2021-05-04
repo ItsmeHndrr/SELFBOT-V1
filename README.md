@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/8gyLVKJ/03d19d67-77b1-4208-abdb-bd295692bbe9.jpg" alt="png" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="SELF BOT" src="https://img.shields.io/badge/SELF BOT-lightgrey?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SELF BOT" src="https://img.shields.io/badge/SELF BOT-lightgrey?colorA=%23ff0000&colorB=%#7E7D7D&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://api.whatsapp.com/send/?phone=%2B6289652903288&text&app_absent=0"><img title="Author" src="https://img.shields.io/badge/Author-R%20Hndrr-brightgreen.svg?style=for-the-badge&logo=whatsapp"></a>
