@@ -7,6 +7,14 @@
 <p align="center">
 <a href="https://api.whatsapp.com/send/?phone=%2B6289652903288&text&app_absent=0"><img title="Author" src="https://img.shields.io/badge/Author-R%20Hndrr-brightgreen.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
+<p align="center">
+<a href="https://github.com/ItsmeHndrr/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
+<a href="https://github.com/ItsmeHndrr/SELFBOT-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/ItsmeHndrr/SELFBOT-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/ItsmeHndrr/SELFBOT-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ItsmeHndrr/SELFBOT-V1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+</p>
+
 
 ## APIKEY & Author Packname sticker
 Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ingin dijadiin self
