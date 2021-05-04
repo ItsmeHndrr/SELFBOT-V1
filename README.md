@@ -5,7 +5,7 @@
 <a href="#"><img title="SELF BOT" src="https://img.shields.io/badge/SELF BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://api.whatsapp.com/send/?phone=%2B6289652903288&text&app_absent=0"><img title="Author" src="https://img.shields.io/badge/Author-R%20Hndrr-red.svg?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://api.whatsapp.com/send/?phone=%2B6289652903288&text&app_absent=0"><img title="Author" src="https://img.shields.io/badge/Author-R%20Hndrr-brightgreen.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 ## APIKEY & Author Packname sticker
