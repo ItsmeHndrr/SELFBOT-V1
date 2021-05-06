@@ -13,7 +13,10 @@
 <a href="https://github.com/ItsmeHndrr/SELFBOT-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/ItsmeHndrr/SELFBOT-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ItsmeHndrr/SELFBOT-V1?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-</p>
+  </p>
+  
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
 
 
 ## APIKEY & Author Packname sticker
@@ -160,7 +163,7 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 - [VHTEAR](https://api.vhtear.com)
 - [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
 
-## 🙏 Special Thanks To
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px"> Special Thanks To
 
 - [adiwajshing](https://github.com/adiwajshing/Baileys)
 - [MrG3P5](https://github.com/MrG3P5)
