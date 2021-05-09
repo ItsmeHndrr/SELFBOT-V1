@@ -35,6 +35,17 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 > bash install.sh
 > npm start
 ```
+
+### Installasi In RDP/LAPTOP
+note : Cheerio install was successful
+
+```bash
+> npm i
+> npm i cheerio
+> npm start
+> scan qr done✅
+```
+
 ### NOT PREFIX
 
 | Sticker Creator |                Feature           |
