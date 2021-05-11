@@ -24,6 +24,8 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 - [VHTEAR](https://api.vhtear.com)
 - [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
 
+note : Cheerio install was successful
+
 ### Installasi In TERMUX
 
 ```bash
@@ -37,7 +39,6 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 ```
 
 ### Installasi In RDP/LAPTOP
-note : Cheerio install was successful
 
 ```bash
 > npm i
