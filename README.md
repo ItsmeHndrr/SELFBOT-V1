@@ -159,6 +159,7 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px"> Special Thanks To
 
-- [adiwajshing](https://github.com/adiwajshing/Baileys)
-- [MrG3P5](https://github.com/MrG3P5)
-- [MhankBarBar](https://github.com/MhankBarBar)
+* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/MhankBarBar/termux-wabot"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/MrG3P5"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+
