@@ -9,9 +9,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/ItsmeHndrr/followers"><img title="Followers" src="https://img.shields.io/github/followers/ItsmeHndrr?color=blue&style=flat-square"></a>
-<a href="https://github.com/ItsmeHndrr/SELFBOT-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ItsmeHbdrr/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/ItsmeHndrr/SELFBOT-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itsmeHndrr/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/ItsmeHndrr/SELFBOT-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ItsmeHndrr/SELFBOT-V1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/ItsmeHndrr/selepbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ItsmeHbdrr/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/ItsmeHndrr/selepbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itsmeHndrr/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/ItsmeHndrr/selepbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ItsmeHndrr/selepbot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
   </p>
   
@@ -24,7 +24,7 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 - [VHTEAR](https://api.vhtear.com)
 - [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
 
-note : Cheerio install was successful
+### note : Cheerio install was successful
 
 ### Installasi In TERMUX
 
@@ -32,8 +32,8 @@ note : Cheerio install was successful
 > apt update && apt upgrade -y
 > pkg install git -y
 > pkg install bash -y
-> git clone https://github.com/ItsmeHndrr/SELFBOT-V1.git
-> cd SELFBOT-V1
+> git clone https://github.com/ItsmeHndrr/selepbot.git
+> cd selepbot
 > bash install.sh
 > npm start
 ```
@@ -49,15 +49,12 @@ note : Cheerio install was successful
 
 ### NOT PREFIX
 
-| Sticker Creator |                Feature           |
+| ALL FITUR |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker WM                        |
 |       ✅       | Sticker Trigger                   |
 |       ✅       | Sticker wasted 
 |       ✅        |  Esticker                     |
-
-| Group |                     Feature                |
-| :------------: | :---------------------------------------------: |
 |       ✅        |  Hidetag     |
 |       ✅        |  Kontag      |
 |       ✅        |  Totag  |
@@ -73,9 +70,6 @@ note : Cheerio install was successful
 |       ✅        |  Leave              |
 |       ✅        |  Promote              |
 |       ✅        |  Demote              |
-
-| MEDIA |                     Feature                |
-| :------------: | :---------------------------------------------: |
 |       ✅        |  Ytstalk              |
 |       ✅        |  Tomp3              |
 |       ✅        |  Brainly              |
@@ -91,9 +85,6 @@ note : Cheerio install was successful
 |       ✅        |  Puisiimg              |
 |       ✅        |  Tiktok              |
 |       ✅        |  Toimg              |
-
-| STORAGE |                     Feature                |
-| :------------: | :---------------------------------------------: |
 |       ✅        |  Addsticker             |
 |       ✅        |  Getsticker             |
 |       ✅        |  Delsticker             |
@@ -110,9 +101,6 @@ note : Cheerio install was successful
 |       ✅        |  Getimage             |
 |       ✅        |  Delimage             |
 |       ✅        |  Listimage             |
-
-| ADVANCE |                     Feature                |
-| :------------: | :---------------------------------------------: |
 |       ✅        |  Upswteks        |
 |       ✅        |  Upswimage        |
 |       ✅        |  Upswvideo        |
@@ -145,9 +133,6 @@ note : Cheerio install was successful
 |       ✅        |  Setreply             |
 |       ✅        |  Setnumber             |
 |       ✅        |  Cekchat             |
-
-| VOICE |                     Feature                |
-| :------------: | :---------------------------------------------: |
 |       ✅        |  Slowmo             |
 |       ✅        |  Bass             |
 |       ✅        |  Tupai             |
@@ -155,9 +140,6 @@ note : Cheerio install was successful
 |       ✅        |  vibrato       |
 |       ✅        |  Areverse       |
 |       ✅        |  Apulsator       |
-
-| PENTEST |                     Feature                |
-| :------------: | :---------------------------------------------: |
 |       ✅        |  findhost             |
 |       ✅        |  dork             |
 |       ✅        |  nmap             |
