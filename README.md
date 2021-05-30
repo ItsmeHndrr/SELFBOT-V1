@@ -23,6 +23,7 @@
 Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ingin dijadiin self
 - [VHTEAR](https://api.vhtear.com)
 - [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
+- mau yang tidak encrypt + buggc,troli,bughole? [hubungin admin](https://wa.me/6289652903288)
 
 ### note : Cheerio install was successful
 
