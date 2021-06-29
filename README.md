@@ -52,7 +52,8 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 
 | ALL FITUR |                Feature           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Sticker WM                        |
+|       ✅       | Sticker WM                 |
+|       ✅       | troli                      |
 |       ✅       | Sticker Trigger                   |
 |       ✅       | Sticker wasted 
 |       ✅        |  Esticker                     |
